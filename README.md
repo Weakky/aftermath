@@ -8,3 +8,5 @@ You're even allowed to add own custom functions to the script language. It curre
 The whole AST can be displayed through a treeview, showing how the code was parsed.
 
 The project was completely free to choose. It received a grade A.
+
+Code wasn't touched for years, it may not compile at all.
