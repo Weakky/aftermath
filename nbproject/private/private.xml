@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Utilisateur/Documents/NetBeansProjects/Parser/src/parser/Shared/ScriptException.java</file>
+            <file>file:/C:/Users/Utilisateur/Documents/NetBeansProjects/Parser/src/parser/Expressions/Assignment.java</file>
+            <file>file:/C:/Users/Utilisateur/Documents/NetBeansProjects/Parser/src/parser/Tokenizer/TokenPattern.java</file>
+            <file>file:/C:/Users/Utilisateur/Documents/NetBeansProjects/Parser/src/parser/Parsing/ParserBase.java</file>
+            <file>file:/C:/Users/Utilisateur/Documents/NetBeansProjects/Parser/src/parser/Expressions/Expression.java</file>
+            <file>file:/C:/Users/Utilisateur/Documents/NetBeansProjects/Parser/src/Builder/AbstractSyntaxTreeBuilder.java</file>
+            <file>file:/C:/Users/Utilisateur/Documents/NetBeansProjects/Parser/src/Builder/Evaluator.java</file>
+            <file>file:/C:/Users/Utilisateur/Documents/NetBeansProjects/Parser/src/parser/Tokenizer/Token.java</file>
+            <file>file:/C:/Users/Utilisateur/Documents/NetBeansProjects/Parser/src/parser/Parsing/AstParser.java</file>
+            <file>file:/C:/Users/Utilisateur/Documents/NetBeansProjects/Parser/src/parser/Tokenizer/Tokenizer.java</file>
+            <file>file:/C:/Users/Utilisateur/Documents/NetBeansProjects/Parser/src/parser/Shared/Helpers.java</file>
+            <file>file:/C:/Users/Utilisateur/Documents/NetBeansProjects/Parser/src/parser/Expressions/Statement.java</file>
+            <file>file:/C:/Users/Utilisateur/Documents/NetBeansProjects/Parser/src/parser/Tokenizer/RegexPresets.java</file>
+            <file>file:/C:/Users/Utilisateur/Documents/NetBeansProjects/Parser/src/parser/Shared/Types.java</file>
+        </group>
+    </open-files>
+</project-private>
